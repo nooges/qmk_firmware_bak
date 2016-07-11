@@ -25,12 +25,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID      0x6061
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Ortholinear Keyboards
-#define PRODUCT         The Preonic Keyboard
+#define PRODUCT         Preonix Keyboard
 #define DESCRIPTION     A compact ortholinear keyboard
 
 /* key matrix size */
 #define MATRIX_ROWS 5
-#define MATRIX_COLS 12
+#define MATRIX_COLS 13
 
 /* Planck PCB default pin-out */
 #define MATRIX_ROW_PINS { D2, D5, B5, B6, D3 }

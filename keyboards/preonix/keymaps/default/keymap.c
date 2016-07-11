@@ -1,4 +1,4 @@
-#include "preonic.h"
+#include "preonix.h"
 #include "action_layer.h"
 #include "eeconfig.h"
 #ifdef AUDIO_ENABLE
