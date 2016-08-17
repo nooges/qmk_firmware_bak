@@ -1,4 +1,4 @@
-#include "preonic.h"
+#include "preonix.h"
 
 void matrix_init_kb(void) {
 
